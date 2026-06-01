@@ -1,3 +1,6 @@
+package oops;
+import basics.AdvCalculator;
+
 public class inhe {
     public static void main(String[] args) {
     AdvCalculator ac = new AdvCalculator();
