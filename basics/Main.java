@@ -1,6 +1,3 @@
-import oops.Human;
-
-package basics;
 class Human{
     private int age;
     private String name;

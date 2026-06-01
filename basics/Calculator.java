@@ -1,4 +1,4 @@
-package basics;
+
 public class Calculator {
      int a, b;
 
